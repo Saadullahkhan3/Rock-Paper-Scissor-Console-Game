@@ -4,7 +4,27 @@
 
 A Console-Based Rock-Paper-Scissor game. 
 
+<details>
+<summary><u>From HackClub? Click on this</u></summary>
+
+
+So you are from HackClub, I am glad that you are on my repository, thank you.
+
+You may have some questions about this project, first maybe why it took you quite a long time to developed this project and why your tracking is in multiple folders?
+
+The reason it took me so long is that I didn't used any AI, I have written code after at least 1 year later, I wrote multiple versions and scraped them(mostly experimenting as it is my first C++ code), the one mistake I did was not setuping the project earlier properly, i was renaming the folder multiple times, not just it i even changed the repo thats why all the commits of developing are gone.
+
+I hope you understand this and clears my project.
+
+Thank You!
+
+</details>
+
 ## 📌 Quick Start
+### Windows: 
+Download `game.exe` and enjoy your game!
+
+### Linux & Mac:
 Download the `game.cpp`, compile the C++ file and enjoy your game!
 
 ---
@@ -75,6 +95,8 @@ Game will search `FILE_NAME`, if it founds it, it will read and load it else it 
 
 Number of entities for the Leaderboard is controlled via `MAX_ENTRIES`
 
+A `leaderboard.txt` is also added as Demo, entries are stored in CSV format.
+
 > Bubble sort is used to sort the leaderboard in descending order based on number of wins.
 
 <details>
@@ -95,6 +117,6 @@ flowchart TD
 ---
 
 ### Technical Details
-Developed in C++
+Developed in C++ by Saadullah Khan
 
 ---
