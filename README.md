@@ -21,11 +21,13 @@ Thank You!
 </details>
 
 ## 📌 Quick Start
-### Windows: 
-Download `game.exe` and enjoy your game!
 
-### Linux & Mac:
-Download the `game.cpp`, compile the C++ file and enjoy your game!
+### Download
+Download the Latest release, find releases [here!](https://github.com/Saadullahkhan3/Rock-Paper-Scissor-Console-Game/releases)
+
+### Compile on your own Machine:
+Download the repo, compile the `game.cpp`, compile the C++ file and enjoy your game!
+
 
 ---
 
